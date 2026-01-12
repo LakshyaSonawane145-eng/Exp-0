@@ -1,1 +1,4 @@
-#Python Experiments
+Aim
+Theory - Print variable
+Algorithm
+
